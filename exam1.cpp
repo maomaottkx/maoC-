@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+    SetConsoleOutputCP(65001); 
     int x;
     vector<int> v;
     while (true) {
